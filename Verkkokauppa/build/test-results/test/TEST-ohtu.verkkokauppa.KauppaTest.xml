@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-19T20:53:34" hostname="lx8-fuxi058" time="0.425">
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-21T07:56:58" hostname="lx8-fuxi058" time="0.895">
   <properties/>
-  <testcase name="kaksiSamaaOstosta" classname="ohtu.verkkokauppa.KauppaTest" time="0.419"/>
-  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="kaksiSamaaOstosta" classname="ohtu.verkkokauppa.KauppaTest" time="0.878"/>
+  <testcase name="aloitaAsiointiNollaaOstoskorin" classname="ohtu.verkkokauppa.KauppaTest" time="0.003"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
   <testcase name="toinenTuoteLoppu" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
   <testcase name="kaksiEriOstosta" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="koristaPoistoOnnistuu" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="uusiViiteOstokselle" classname="ohtu.verkkokauppa.KauppaTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
